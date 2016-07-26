@@ -1,0 +1,7 @@
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\bin\Release\DevTools.exe
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\bin\Release\DevTools.pdb
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Release\DevTools.DevToolForm.resources
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Release\DevTools.Properties.Resources.resources
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Release\DevTools.csproj.GenerateResource.Cache
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Release\DevTools.exe
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Release\DevTools.pdb

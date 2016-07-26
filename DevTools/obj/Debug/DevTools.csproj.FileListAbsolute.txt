@@ -1,0 +1,7 @@
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Debug\DevTools.Properties.Resources.resources
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Debug\DevTools.csproj.GenerateResource.Cache
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\bin\Debug\DevTools.exe
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\bin\Debug\DevTools.pdb
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Debug\DevTools.exe
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Debug\DevTools.pdb
+C:\Users\ncarlson\Documents\Visual Studio 2015\Projects\DevTools\DevTools\obj\Debug\DevTools.DevToolForm.resources
